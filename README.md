@@ -22,3 +22,6 @@ For the notebook to run as per normal, the following three files must be place i
 * portfolio.json
 * profile.json
 * transcript.json
+
+For more information do take a look at my blog post:  
+https://mathstatspythonrmql4.wordpress.com/2020/06/10/analyzing-starbucks-data/
